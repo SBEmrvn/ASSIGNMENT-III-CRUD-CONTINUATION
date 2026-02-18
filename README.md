@@ -368,6 +368,7 @@ SCREEN SHOT FOR PRODUCT DELETION
 ```http
 GET http://localhost:8080/api/products/getByCategory/Electronics
 
+```
 <img width="1794" height="570" alt="Screenshot 2026-02-14 232256" src="https://github.com/user-attachments/assets/0b3a4af3-53a9-49b5-bc99-ebe85cfdd785" />
 
 ```
